@@ -1,0 +1,14 @@
+{
+    "name": "gallea/laravel-color",
+    "description": "Artworks color manager",
+    "authors": [
+        {
+            "name": "Catherine Charette",
+            "email": "ccharette.dev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.2"
+    }
+}
